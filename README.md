@@ -1,2 +1,2 @@
-# todoAll
-NCA project
+# TodoAll
+NCA project (iOS)
